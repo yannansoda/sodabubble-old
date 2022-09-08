@@ -9,7 +9,7 @@ permalink: /
 I am not a fan of soda, but I adore bubbles - the metaphors of ideas in my watery noisy brain.   
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at a random note on <span style="font-weight: bold">[[Goodness of Fit]]</span> to get started on your exploration.
+  Most of my bubbles are about <span style="font-weight: bold">[[Computational Neuroscience]], [[Statistics]], and [[Machine learning]]</span> (plus random thoughts on books and photography, maybe). 
 </p>
 
 This garden is still under construction. 
