@@ -1,4 +1,4 @@
-[[_Machine Learning]]
+[[Machine Learning]]
 # How it works
 1. Choose the number K of neighbours
 2. Take the K nearest neighbour of the new data point, according to the Euclidean distance

@@ -1,4 +1,4 @@
-[[_Machine Learning]]
+[[Machine Learning]]
 # Confusion Matrix
 ![[Pasted image 20220220120800.png]]
 *source:* https://towardsdatascience.com/confusion-matrix-for-your-multi-class-machine-learning-model-ff9aa3bf7826

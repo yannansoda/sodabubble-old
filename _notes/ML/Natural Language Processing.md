@@ -1,4 +1,4 @@
-[[_Machine Learning]]
+[[Machine Learning]]
 # NLP Types
 ![[Pasted image 20220326181941.png]]
 # Example: Bag-of-Words Model

@@ -1,10 +1,18 @@
-[[_Machine Learning]]
+# Full Cycle of a ML project
+1. define project 
+2. define and collect data
+3. train model: training, error analysis & iterative improvement -> loop between 2 and 3 until your model is done
+4. deploy in production: deploy, monitor, and maintain system -> back to 3 and/or 2 if needed
+
+[[Machine Learning]]
 	Table of Contents
 ```toc 
 style: bullet 
 min_depth: 1 
 max_depth: 6 
 ```
+
+
 # Supervised Learning
 ## Classification
 ### linear
@@ -68,3 +76,4 @@ max_depth: 6
 	tuning on parameters
 - XGBoost (eXtreme Gradient Boosting)
 	- 
+

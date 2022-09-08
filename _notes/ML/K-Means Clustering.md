@@ -1,4 +1,4 @@
-[[_Machine Learning]]
+[[Machine Learning]]
 # How it works
 1. Choose the number K of clusters
 2. Select at random K points, the centroids (not necessarily from your dataset)

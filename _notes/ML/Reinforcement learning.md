@@ -1,4 +1,4 @@
-[[_Machine Learning]]
+[[Machine Learning]]
 
 ![[reinforcement_learning.png]]
 # Upper Confidence Bound
