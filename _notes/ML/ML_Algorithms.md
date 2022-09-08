@@ -9,9 +9,9 @@ max_depth: 6
 ## Classification
 ### linear
 - Logistic Regression
-- Support Vector Machine SVM: [[Support Vector ... so?#Support Vector Machine SVM]]
+- Support Vector Machine SVM: [[Support Vector X#Support Vector Machine SVM]]
 ### non-linear
-- Kernel SVM: [[Support Vector ... so?#Kernels SVM]]
+- Kernel SVM: [[Support Vector X#Kernels SVM]]
 -  [[K-Nearest Neighbor]] (k-NN) 
 - [[Naive Bayes]]
 - Decision Tree Classification: [[Decision Tree & Random Forest#Decision Tree]]
@@ -23,7 +23,7 @@ max_depth: 6
 ## Regression
 - Linear Regression
 - Polynomial Regression
-- Support Vector Regression (SVR) [[Support Vector ... so?#^46e7f9]]
+- Support Vector Regression (SVR) [[Support Vector X#^46e7f9]]
 - Decision Tree Regression: [[Decision Tree & Random Forest#Decision Tree]]
 - Random Forest Regression: [[Decision Tree & Random Forest#Random Forest]]
 

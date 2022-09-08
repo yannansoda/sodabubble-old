@@ -1,3 +1,4 @@
+[[_Machine Learning]]
 There are two types of Dimensionality Reduction techniques:  
 - Feature Selection: Backward Elimination, Forward Selection, Bidirectional Elimination, Score Comparison
 - Feature Extraction

@@ -1,3 +1,4 @@
+[[_Machine Learning]]
 # Basic working mechanism
 ![[Pasted image 20220403112540.png]]
 # How it works

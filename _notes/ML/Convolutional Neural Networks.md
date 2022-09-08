@@ -1,3 +1,4 @@
+[[_Machine Learning]]
 # How it works
 ![[Pasted image 20220501132303.png]]
 1. Convolution operation

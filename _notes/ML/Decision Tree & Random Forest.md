@@ -1,3 +1,4 @@
+[[_Machine Learning]]
 # Decision Tree
 ![[Screenshot 2022-03-06 at 12.14.50.png]]
 - each split part is called a "leaf"
