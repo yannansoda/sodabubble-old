@@ -4,6 +4,6 @@ There are two types of Dimensionality Reduction techniques:
 - Feature Extraction
 	- PCA vs. LDA
 		- PCA capture the variability; LDA class separation
-			![[Pasted image 20220507163347.png]]
-			![[Pasted image 20220507163803.png]]
+			![](/assets/images/dimensionality-reduction-1.png)
+			![](/assets/images/dimensionality-reduction-2.png)
 		- PCA is unsupervised; LDA is supervised (because of the relation to the dependent variable)

@@ -1,5 +1,5 @@
 [[Machine Learning]]
-![](/assets/images/svm_1.png)
+![](/assets/images/svm-1.png)
 
 # Support Vector
 - Support vectors are the ones outside the tube (SVR) or exactly at the maximum margin (SVM)
@@ -9,7 +9,7 @@
 => performs regression, continuous data
 
 ## Kernels SVR
-![](/assets/images/svm_2.png)
+![](/assets/images/svm-2.png)
 
 # Support Vector Machine (SVM)
 => performs classification, discrete data
@@ -18,12 +18,12 @@
 ### Why we need kernels
 classification can be non-linear
 => mapping to a higher dimension can help
-![](/assets/images/svm_3.png)]]
+![](/assets/images/svm-3.png)
 => however, the mapping can be highly compute-intensive
 => the Kernel trick can help with that
-![](/assets/images/svm_4.png)
+![](/assets/images/svm-4.png)
 More than one kernel can be good too...
-![](/assets/images/svm_5.png)
+![](/assets/images/svm-5.png)
 
 ### Types of Kernel Functions
 - Gaussian RBF kernel

@@ -1,6 +1,6 @@
 [[Machine Learning]]
 # Basic working mechanism
-![[artificial-nn-1.png]]
+![[/assets/images/artificial-nn-1.png]]
 # How it works
 1. Randomly initialise the weights to small numbers close to 0 (but not 0).
 2. Input the first observation of your dataset in the input layer, each feature in one input node.
@@ -48,4 +48,4 @@ $$
 ## batch gradient descent vs. stochastic gradient descent
 - different purposes: stochastic ones can avoid local minimum 
 - different ways to update weights
-![[artificial-nn2.png]]
+![[/assets/images/artificial-nn2.png]]

@@ -1,6 +1,6 @@
 [[Machine Learning]]
 # Decision Tree
-![[Screenshot 2022-03-06 at 12.14.50.png]]
+![](/assets/images/decision-tree-1.png)
 - each split part is called a "leaf"
 - the splitting uses information entropy
 > - How to choose what features to split on each node? 
@@ -10,8 +10,6 @@
 > 	- before the tree exceeds max depth
 > 	- when improvement in purity is below a threshold score (i.e. reduced entropy/information gain)
 > 	- when the sample number in a new node is below a threshold number
-
-
 
 # Random Forest
 Random forest is a `Ensemble learning` method as a `Decision tree ensemble`, which is necessary, because a single tree is sensitive to small changes of the data.

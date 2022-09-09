@@ -26,7 +26,7 @@ max_depth: 6
 - Random Forest Classification: [[Decision Tree & Random Forest#Random Forest]]
 
 ### Pros and Cons
-![[Pasted image 20220306124710.png]]
+![](/assets/images/classification-1.png)
 
 ## Regression
 - Linear Regression
@@ -36,7 +36,7 @@ max_depth: 6
 - Random Forest Regression: [[Decision Tree & Random Forest#Random Forest]]
 
 ### Pros and Cons
-![[Pasted image 20220220114836.png]]
+![](/assets/images/regression.png)
 
 # Unsupervised Learning
 ## Clustering
@@ -44,7 +44,7 @@ max_depth: 6
 - [[Hierarchical Clustering]]
 
 ### Pros and Cons
-![[Pasted image 20220312183704.png]]
+![](/assets/images/clustering.png)
 
 # Association Rule Learning
 - Apriori: [[Association Rule Learning#Apriori]]

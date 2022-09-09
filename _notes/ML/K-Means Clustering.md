@@ -7,7 +7,6 @@
 5. Reassign each data point to the new closest centroid
 8. Repeat until your model is ready (i.e. cost function reaches minimum)
 
-
 # Traps during use!!!
 ### Random Initialisation trap
 - = the random centroids at the start may lead to inappropriate clustering
@@ -16,9 +15,9 @@
 	- K-Means++ (already implemented in python/R)
 ### Choosing the right number of clusters
 The optimal number of clusters can be found by using the **Elbow Method**.
-![[Pasted image 20220310225656.png]]
+![](/assets/images/K-Means-1.png)
 WCSS is the sum of squared distance between each point and the centroid in a cluster (i.e. cost function):
 $$
 WCSS = \sum_{Cluster \ j} \ \sum_{Point_i \ in \ Cluster \ j} \ distance(P_i, C_j)^2
 $$
-![[Pasted image 20220310225503.png]]
+![](K-Means-2.png)

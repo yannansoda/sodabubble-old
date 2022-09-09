@@ -1,6 +1,6 @@
 [[Machine Learning]]
 # Confusion Matrix
-![[Pasted image 20220220120800.png]]
+![](/assets/images/confusion-matrix-1.png)
 *source:* https://towardsdatascience.com/confusion-matrix-for-your-multi-class-machine-learning-model-ff9aa3bf7826
 
 # Performance measures
@@ -33,8 +33,8 @@ $$F1-score = 2 \times \frac{Precision \times Sensitivity}{Precision + Sensitivit
  ## CAP Analysis
 We can analyze the cap curve in 2 ways.
  ### Way 1: ratio of the areas under the good model to the area under the ideal curve
- ![[Pasted image 20220306123711.png]]
+ ![](/assets/images/confusion-matrix-2.png)
  ### Way 2:
-![[Pasted image 20220306123919.png]]
+![](/assets/images/confusion-matrix-3.png)
 # Receiver Operating Characteristic (ROC)
 ROC != CAP, ROC plots the true-positive rate against the false-positive rate.
