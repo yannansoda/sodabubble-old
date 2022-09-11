@@ -5,7 +5,8 @@
 3. Assign each data point to the closest centroid => that forms K clusters
 4. Compute and place the new centroid of each cluster
 5. Reassign each data point to the new closest centroid
-8. Repeat until your model is ready (i.e. cost function reaches minimum)
+8. Repeat until your model is ready (i.e. cost function reaches minimum
+> Actually, in K-means, the cost never increases.
 
 # Traps during use!!!
 ### Random Initialisation trap

@@ -16,5 +16,5 @@ Random forest is a `Ensemble learning` method as a `Decision tree ensemble`, whi
 1. pick at random K dat points from the training set
 2. build the decision tree associated to these K data points
 > To make the algorithm more robust, you can also randomise the feature choice at each node. If n features are available, pick a random subset of $k < n$ features for the algorithm to choose, such as $k = \sqrt{n}$.
-4. repeat Steps 1&2 according to the number of trees you prefer (usually > 500 tress)
-5. predicted value = average of predicted values across all trees
+3. repeat Steps 1&2 according to the number of trees you prefer (usually > 500 tress)
+4. predicted value = average of predicted values across all trees

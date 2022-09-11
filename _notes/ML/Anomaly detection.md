@@ -5,7 +5,7 @@ $y = 0$ if $p(x) >= \epsilon$ (normal)
 2. evaluate the algorithm using
 	- true positive, false positive...
 	- precision/recall
-	- F_1-score
+	- F1-score: [[Confusion Matrix#F1-score]]
 
 # Anomaly detection vs. supervised learning
 Why bother using anomaly detection rather than supervised learning if your examples already have labels?

@@ -19,8 +19,8 @@ $$
 - Softmax
 $$
  \text{Softmax}(x_{i}) = \frac{\exp(x_i)}{\sum_j \exp(x_j)}
-$$
-- rectifier (ReLU)
+$$ ^6ef895
+- rectifier (ReLU) -  when you must model a piecewise linear target
 $$
 \phi(x) = max(x, 0)
 $$
@@ -32,7 +32,7 @@ $$
 $$
 \phi(x) = \frac{1 - e^{-2x}}{1+e^{-2x}}
 $$
-> Different forms can be combined, e.g. using rectifier in the hidden layer and then sigmoid in output layer
+
 
 ### Which to choose depends on your problems:
 - for the output layer:
@@ -42,6 +42,7 @@ $$
 - for hidden layers: 
 	- use default function (usually ReLU, because it is faster)
 	- do not use linear activation
+- Different forms can be combined, e.g. using rectifier in the hidden layer and then sigmoid in output layer
 
 # Gradient Descent
 -- to minimize cost function
@@ -49,3 +50,6 @@ $$
 - different purposes: stochastic ones can avoid local minimum 
 - different ways to update weights
 ![[/assets/images/artificial-nn2.png]]
+
+> One of the popular algorithms is Adam:
+Adam is an optimization algorithm that can be used instead of the classical stochastic gradient descent procedure to update network weights iterative based in training data.
