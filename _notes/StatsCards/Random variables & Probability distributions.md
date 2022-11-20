@@ -14,6 +14,19 @@ There are two major types of distributions for discrete variables (based on $p_i
 $$X \sim B(n, p)$$
 
 $$p_i = b(i; n, p) = \tbinom{n}{i} p^i (1-p) ^{n-i}$$
+> example: observe $X$ times of heads when flipping coins for N times. Then X=1, 2, ..., N follows this distribution.
+
+- Mean
+$$\bar{X} = np$$
+- Variance
+$$
+Var(X) = np(1-p)
+$$
+>[!important] Bernoulli distribution
+>The Bernoulli distribution is a special case of the binomial distribution with $n=1$. 
+>- Mean $\bar{X}=p$
+>- Var(X) = p(1-p)
+
 
 ## - Poisson distribution
 

@@ -1,6 +1,6 @@
 [[Machine Learning]]
 # Basic working mechanism
-![[/assets/images/artificial-nn-1.png]]
+![](/assets/images/artificial-nn-1.png)
 # How it works
 1. Randomly initialise the weights to small numbers close to 0 (but not 0).
 2. Input the first observation of your dataset in the input layer, each feature in one input node.
@@ -19,7 +19,7 @@ $$
 - Softmax
 $$
  \text{Softmax}(x_{i}) = \frac{\exp(x_i)}{\sum_j \exp(x_j)}
-$$ ^6ef895
+$$
 - rectifier (ReLU) -  when you must model a piecewise linear target
 $$
 \phi(x) = max(x, 0)

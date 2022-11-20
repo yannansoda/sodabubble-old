@@ -15,7 +15,7 @@
 - the population is normal
 	<= can be tested by **Shapiro–Wilk test(best)**, as well as Anderson–Darling, Kolmogorov–Smirnov, and Lilliefors tests.
 - the groups have equal variance
-	<= can be tested by **Levene's test for equality of variances**
+	<= can be tested by **Levene's [[test for equality of variances]]**
 - for a repeated-measures ANOVA, you have to be careful about the sphericity
 	- Sphericity is an important assumption of a repeated-measures ANOVA. It is the condition where the variances of the differences between all possible pairs of within-subject conditions (i.e., levels of the independent variable) are equal. 
 	- It can be tested by the **Mauchly's sphericity test (Mauchly's W)**, which is a statistical test used to validate a repeated measures ANOVA.

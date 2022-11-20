@@ -7,7 +7,7 @@ EndDate as FinishDate,
 format as Format
 
 from "BookNotes" 
-where !contains(file.name, "BookList") 
+where !contains(file.name, "Books") 
 sort EndDate desc
 ```
 

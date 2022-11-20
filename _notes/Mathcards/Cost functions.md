@@ -21,10 +21,11 @@ $$\begin{eqnarray}
                             \end{cases}
 \end{eqnarray}
 $$
-> In ML, Mean Squared Error is commonly used as the cost function, but with an extra division by 2, which "is just meant to make later partial derivation in gradient descent neater" :
-$$
+> - In ML, Mean Squared Error is commonly used as the cost function, but with an extra division by 2, which "is just meant to make later partial derivation in gradient descent neater" :
+> $$
 J(\theta) = \frac{1}{2m} \sum ^m (\hat{x_i} - x_i)^2
-$$
+> $$
+> - Be careful about Absolute Error or Mean Absolute Error (MAE). Compared to MSE, it does not penalize large errors. But if your loss is just proportional to the size of error, then maybe MAE is better.
 
 ### Cost function with regularization
 When you choose [[regularization]], a regularization term will be added to the cost function.

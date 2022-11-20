@@ -38,3 +38,4 @@ We can analyze the cap curve in 2 ways.
 ![](/assets/images/confusion-matrix-3.png)
 # Receiver Operating Characteristic (ROC)
 ROC != CAP, ROC plots the true-positive rate against the false-positive rate.
+![](ROC.png)
